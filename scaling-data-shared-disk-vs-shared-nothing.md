@@ -108,7 +108,7 @@ These two approaches lead to two fundamentally different architectures:
 
 # Shared Disk: What If Multiple Database Nodes Shared the Same Storage?
 
-The first approach the engineering team explores is simple.
+The first approach the engineering team can explores is simple.
 
 > **What if we add more database nodes but keep the data in one shared place?**
 
